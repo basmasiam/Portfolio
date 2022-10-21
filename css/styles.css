@@ -1,0 +1,12 @@
+body{
+  background-image: url("background.jpg");
+  background-size:cover;
+}
+
+title{
+  font-size: larger;
+  color:mediumpurple ;
+  text-decoration: wavy;
+  text-shadow: 0mm;
+  text-align: center;
+}
