@@ -4,9 +4,28 @@ body{
 }
 
 title{
-  font-size: larger;
-  color:mediumpurple ;
-  text-decoration: wavy;
-  text-shadow: 0mm;
-  text-align: center;
+  display: none;
 }
+
+h2.header{
+  font-size:xxx-large;
+  color:mediumpurple;
+  text-align: center;
+} 
+
+div{
+  float: left;
+  padding: 20px;
+  border: 2px turquoise;
+  border-style: solid;
+  border-radius: 15px;
+  border-top-width: 10px;
+  margin-left: 5px;
+  inline-size: 300px;
+}
+
+span{
+  color:plum;
+}
+
+
