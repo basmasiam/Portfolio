@@ -17,7 +17,7 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 * _This is a great place_
 * _to list setup instructions_
-* _in a simple_
+* _in a simple_ 
 * _easy-to-understand_
 * _format_
 
