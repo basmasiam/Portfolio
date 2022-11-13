@@ -15,8 +15,11 @@ _{This web page is a landing page of my growing programming portfolio with Epico
 
 ## Setup/Installation Requirements
 
-* _You can reach any of my projects_
-* _via provided links_
+Add link to gh-pages hosted site in your README. This could look something like: [CLICK HERE TO VISIT THE SITE LIVE ON GH-PAGES](https://basmasiam.github.io/Portfolio/)
+
+* _Clone the project to your local maching with:_
+* _git clone https://github.com/basmasiam/Portfolio.git_
+* _Open index.html in your browser or open the project folder in a text editor to edit_
 
 ## License
 
